@@ -10,7 +10,7 @@ class M(Scene):
         map.axes.set_opacity(0)
         self.add(map)
         
-        cau=Text("Cauchy-Schwarz inequality",font="times new roman",font_size=70).set_color_by_gradient(PURPLE,BLUE)
+        cau=Text("AM-GM Inequality",font="times new roman",font_size=70).set_color_by_gradient(PURPLE,BLUE)
 
         self.play(Write(cau),run_time=1)
         self.play(cau.animate.shift(UP*3.5+RIGHT*4.2).scale(0.4))
