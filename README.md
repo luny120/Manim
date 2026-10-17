@@ -6,6 +6,12 @@
 
 # Nicomachus's Theorem
 ![sum 1^3_n^3](./sum^3_n/s^3.png)
+<p align="center">
+  <a href="./sum^3_n/sum^3_n.py">$ \sum_{k=1}^{n} k^3 $</a>
+</p>
 
 # AM-GM Inequality
 ![AM-GM](./AM-GM/am-gm.png)
+<p align="center">
+  <a href="./x^4/No_x^4.py">Quartic Equations</a>
+</p>
