@@ -7,7 +7,7 @@
 # Nicomachus's Theorem
 ![sum 1^3_n^3](./sum^3_n/s^3.png)
 <p align="center">
-  <a href="./sum^3_n/sum^3_n.py">$ \sum_{k=1}^{n} k^3 $</a>
+  $\displaystyle \sum_{k=1}^{n} k^3$
 </p>
 
 # AM-GM Inequality
